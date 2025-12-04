@@ -1,0 +1,12 @@
+{
+    "editor.inlineSuggest.edits.allowCodeShifting": "never",
+    "editor.inlineSuggest.edits.renderSideBySide": "never",
+    "editor.inlineSuggest.enabled": false,
+    "editor.inlineSuggest.showToolbar": "never",
+    "editor.quickSuggestions": {
+        "other": "off"
+    },
+    "editor.quickSuggestionsDelay": 9999999,
+    "editor.suggest.snippetsPreventQuickSuggestions": true,
+    "workbench.quickOpen.preserveInput": true
+}
